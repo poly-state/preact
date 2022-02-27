@@ -31,13 +31,10 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
-"@poly-state/poly-state@latest":
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/@poly-state/poly-state/-/poly-state-0.4.0.tgz#3ce438cb7fb971bd994dfd1103afc42af1580858"
-  integrity sha512-gzuT+2WUHEfnd7qoOAMn91HytQxS3iwwdv34EGeqtyMevRDBRr0bA2EfFtc4L3t30Dw3oue+ENA0YL+B4/gkYA==
-  dependencies:
-    lodash "^4.17.21"
-    rimraf "^3.0.2"
+"@poly-state/poly-state@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@poly-state/poly-state/-/poly-state-1.1.2.tgz#d74ab50e1b815eb833ca1acfa46ad11c2d2c46c9"
+  integrity sha512-KYIxfToOo7P68fOhj8mBDrEzbnkMY/mbpwrO1Uc5aXd50oQVUotYzhdnI5EbrlmViR/FswJHilQf/dyqhmKTmQ==
 
 acorn-jsx@^5.3.1:
   version "5.3.2"
@@ -424,11 +421,6 @@ lodash.merge@^4.6.2:
   version "4.6.2"
   resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.2.tgz#558aa53b43b661e1925a0afdfa36a9a1085fe57a"
   integrity sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==
-
-lodash@^4.17.21:
-  version "4.17.21"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
-  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 lru-cache@^6.0.0:
   version "6.0.0"
